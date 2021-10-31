@@ -1,0 +1,17 @@
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.csproj.AssemblyReference.cache
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.AssemblyInfoInputs.cache
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.AssemblyInfo.cs
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\myapp.exe
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\myapp.deps.json
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\myapp.runtimeconfig.json
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\myapp.runtimeconfig.dev.json
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\myapp.dll
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\ref\myapp.dll
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\myapp.pdb
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.dll
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\ref\myapp.dll
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.pdb
+C:\Users\Vikuskin\Documents\itransition\task3_game\myapp\obj\Debug\net5.0\myapp.genruntimeconfig.cache
